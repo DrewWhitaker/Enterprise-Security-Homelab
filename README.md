@@ -1,4 +1,4 @@
-# Enterprise Security Homelab – Attack & Detection Simulation
+<img width="3832" height="2248" alt="VirtualBox VMs" src="https://github.com/user-attachments/assets/bec78f85-2709-4165-9cff-35b24b8a8aee" /># Enterprise Security Homelab – Attack & Detection Simulation
 
 ## Overview
 This project demonstrates a simulated enterprise network breach using a VirtualBox-based homelab.  
@@ -19,6 +19,9 @@ I acted as both the attacker and defender to better understand the full attack l
 
 ### Security Stack
 - Wazuh (SIEM / host-based intrusion detection)
+
+### VirtualBox Lab Overview
+![VirtualBox Lab Overview](Screenshots/VirtualBox%20VMs.png)
 
 ---
 
