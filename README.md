@@ -18,9 +18,6 @@ I acted as both the attacker and defender to better understand the full attack l
 ### Security Stack
 - Wazuh (SIEM / host-based intrusion detection)
 
-### VirtualBox Lab Overview
-<img width="3832" height="2248" alt="VirtualBox VMs" src="https://github.com/user-attachments/assets/bec78f85-2709-4165-9cff-35b24b8a8aee" /># Enterprise Security Homelab – Attack & Detection Simulation
-
 ---
 
 ## Attack Scenario (High-Level)
